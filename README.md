@@ -33,7 +33,7 @@ Make your geospatial data come to life with R. This course will get you quickly 
 
 ## Learning objectives
 
-LEARNING_OBJECTIVES
+ADD LEARNING OBJECTIVE(S)
 
 ## Is this course for me?
 
