@@ -3,7 +3,7 @@ Modern Geospatial Data Analysis
 
 ### rstudio::conf 2020
 
-by INSTRUCTOR_NAME
+by Zev Ross
 
 -----
 
