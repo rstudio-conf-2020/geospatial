@@ -37,7 +37,7 @@ ADD LEARNING OBJECTIVE(S)
 
 ## Is this course for me?
 
-THREE_QUESTIONS
+Participants in the workshop do not need to have any previous geospatial experience but you must be proficient in R -- for example, you should be able to use dplyr functions such as select, filter and mutate from memory.
 
 ## Prework
 
