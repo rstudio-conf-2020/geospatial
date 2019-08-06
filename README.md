@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Modern Geospatial Data Analysis
 ================
 
 ### rstudio::conf 2020
