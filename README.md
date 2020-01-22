@@ -11,7 +11,7 @@ by Zev Ross
 
 :spiral_calendar: January 27 and 28, 2020  
 :alarm_clock:     09:00 - 17:00  
-:hotel:           \[ADD ROOM\]  
+:hotel:           Golden Gate Rooms 2- 3 (Lobby Level) 
 :writing_hand:    [rstd.io/conf](http://rstd.io/conf)
 
 -----
