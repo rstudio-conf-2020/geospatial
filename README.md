@@ -16,6 +16,14 @@ by Zev Ross
 
 -----
 
+## All you really need to know
+
+* There is no preparation required :clap:
+* Workshop will use a cloud version of RStudio that you will log into on the day of the workshop
+* The workshop materials will be available in your RStudio session at the workshop
+* More details are below. If you have questions you can contact me at <zev@zevross.com>
+
+
 ## Overview
 
 Make your geospatial data come to life with R. This course will get you quickly up and running with the new R workflow for geospatial data. An explosion of packages for working with spatial data means you can ditch your GIS software and do geospatial analysis in R end-to-end. You will learn to read, manipulate and visualize spatial data and you'll be introduced to functionality that will have you saying "I didn't know you could do that in R!". In addition to learning from Zev Ross, you will benefit from support during the workshop from two additional spatial analysis experts, Angela Li from the Center for Spatial Data Science and Hollie Olmstead from ZevRoss Spatial Analysis, each with extensive experience analyzing spatial data and teaching core concepts. During the workshop, you will learn: 
