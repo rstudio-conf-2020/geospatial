@@ -11,7 +11,7 @@ by Zev Ross
 
 :spiral_calendar: January 27 and 28, 2020  
 :alarm_clock:     09:00 - 17:00  
-:hotel:           Golden Gate Rooms 2- 3 (Lobby Level) 
+:hotel:           Golden Gate Rooms 2- 3 (Lobby Level) </br>
 :writing_hand:    [rstd.io/conf](http://rstd.io/conf)
 
 -----
@@ -136,7 +136,6 @@ Agenda
 5. Vector data: a deeper dive into vectors with {sf}
 6. Raster data: a deeper dive into rasters with {raster}
 7. Geoprocessing with vectors and rasters: this section has three parts and could be considered sections 7-9
-
 
 
 Official RStudio breaks
