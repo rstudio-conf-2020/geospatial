@@ -86,7 +86,7 @@ All slides will be available as PDFs on the day of the workshop in a folder in y
 ### Step 1: Navigate to the classroom site
 
   - Go to the classroom app: <https://rstd.io/class>
-  - Enter `geospatial` for the workshop identifier
+  - The workshop identifier will be provided at the workshop
   - Click Submit
 
 <img src="https://github.com/zross/classroom-getting-started/blob/master/inst/images/workshop-classroom.png" width="400px" />
