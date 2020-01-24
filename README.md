@@ -95,7 +95,7 @@ All slides will be available as PDFs on the day of the workshop in a folder in y
 
 Register
 
-  - Register with your name and email address
+  - Register with your name and email address (use a real email as this is your unique identifier)
 
 You will get a home screen with a URL, user name and password
 
@@ -173,6 +173,15 @@ Official RStudio breaks
 ## Instructor
 
 Zev Ross is Founder and President of [ZevRoss Spatial Analysis](https://www.zevross.com/), a firm focused on data analytics, software development and interactive, data-driven web applications. Zev has more than 15 year’s experience in data analytics and machine learning working with clients including Capital One, the World Health Organization, the Natural Defense Resources Council, the American Cancer Society and Freddie Mac. He is the author or co-author of more than 50 peer-reviewed publications in collaboration with research teams all over the world. The 6-person team at ZevRoss Spatial Analysis has significant experience creating Shiny applications, developing R packages, and installation and dev-ops for RStudio software. Zev and the firm’s team run custom software workshops on introductory R for data science, spatial data analysis in R, interactive applications in R with Shiny and advanced predictive analytics in R and these classes have been attended by 1000 participants from around the world. 
+
+
+# Note for instructors on re-loggin in
+
+This will allow the user to re-login if they made a mistake:
+
+* Make sure your on the rstd.io/class page
+* Developer tools, Application tab
+* Find the Cookies section under storage. Right click on https://sol-eng-shinyapps.io and clear
 
 -----
 
