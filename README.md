@@ -61,7 +61,7 @@ During the workshop we will using a cloud version of RStudio (RStudio Server Pro
 If you want to add the packages we will be using to your local version of R that is fine. What we will be using:
 
 * Packages we're using heavily: `install.packages(c("sf", "tmap", "mapview", "raster", "dplyr"))`
-* Packages that are less important but discussed: `install.pacakges(c("tidycensus", "FedData", "rnaturalearth", "osmdata", "OpenStreetMap", "shinyjs", "rmapshaper"))`
+* Packages that are less important but discussed: `install.packages(c("tidycensus", "FedData", "rnaturalearth", "osmdata", "OpenStreetMap", "shinyjs", "rmapshaper"))`
 * Some packages may require {rJava} which is not always straightforward to install: `install.packages("rJava")`
 
 ## Workshop structure
